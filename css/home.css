@@ -1,0 +1,78 @@
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:rgb(0, 0, 0);
+    position: fixed;
+    top: 0;
+    height: 12.5%;
+    width: 100%;
+    z-index: 2;
+    margin: 0%;
+}
+
+.navlinks {
+    float: left;
+}
+
+.navlink {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 48px 18px;
+    text-decoration: none;
+}
+
+.ban{
+    overflow: hidden;
+    height: 90%;
+    
+}
+
+.banner{
+    width: 1000px;
+    height: 120px;
+    padding: 0px 120px;
+}
+
+.signs1{
+    float:right;
+    padding: 0px 22px;
+}
+
+.signs2{
+    float:right;
+}
+li a:hover:not(.active) {
+    background-color: rgb(44, 40, 40);
+}
+
+.active {
+    background-color: rgb(184, 52, 69);
+}
+
+.welcome{
+    height:100%;
+    width: 100%;
+    padding: 0px 200px;
+    z-index: -1;
+
+}
+
+.aboutinfo{
+    display:inline;
+    white-space: nowrap;
+}
+
+.abt{
+    float:left;
+}
+
+.background {
+    background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url('../images/cherry.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }

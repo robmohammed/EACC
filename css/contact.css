@@ -1,0 +1,18 @@
+
+
+h1{
+    padding: 0px 100px 25px 100px;
+    color: rgb(0, 195, 255);
+    font-size: 5em;
+}
+
+h3{
+    color: white;
+    font-size: 2em;
+    padding: 0px 10px 12px 100px;
+}
+
+.lin{
+    font-size: 0.8em;
+    color: rgba(0, 255, 255, 0.507);
+}

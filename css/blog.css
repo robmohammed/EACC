@@ -1,0 +1,23 @@
+ .posts{
+
+    background-color: white;
+    padding: 0px 200px 30px 120px;
+   
+}
+
+h3 {
+    color: black;
+    font-size: 2em;
+    
+}
+
+
+
+p {
+    font-size: 1.35em;
+}
+
+.add{
+    height: 40px;
+    width: 300px;
+}

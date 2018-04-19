@@ -1,0 +1,21 @@
+.aboutinfo{
+    list-style-type: none;
+}
+
+.collage{
+    height: 700px;
+    width: 1000px;
+    padding: 0px 0px 0px 0px;
+
+}
+
+.abt{
+    padding: 0px 100px 100px 100px;
+    color: rgb(255, 0, 234);
+    font-size: 3em;
+}
+
+p{
+    color: white;
+    font-size: 20px;
+}

@@ -1,0 +1,33 @@
+.profiledata{
+    width: 55%;
+    height: 80%;
+    border-radius: 10%;
+    text-indent: 6%;
+    background-color: white;
+    margin:0 auto;
+    
+    
+}
+
+p{
+    font-size:1.1em;
+    color: black;
+}
+
+.owner{
+    text-align: center;
+}
+
+.edit{
+    color: rgba(39, 186, 231, 0.63);
+    padding: 0px 0px 0px 20px;
+    font-size: 22em;
+}
+
+h1{
+    font-size: 2em;
+}
+
+.post{
+    font-size: 20em;
+}
